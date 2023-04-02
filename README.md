@@ -49,7 +49,7 @@ python3 knockpy.py <DOMAIN>
 ###### As root
 
 ```bash
-git clone https://github.com/guelfoweb/knock.git
+git clone https://github.com/anpenohopi/knock.git
 cd knock
 python3 setup.py install
 
