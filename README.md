@@ -39,7 +39,7 @@ python3 knockpy.py domain.com
 ###### You need python3, pip3, git.
 
 ```bash
-git clone https://github.com/guelfoweb/knock.git
+git clone https://github.com/anpenohopi/knock.git
 cd knock
 pip3 install -r requirements.txt
 
